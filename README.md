@@ -12,7 +12,7 @@ The ant is parametrized with three variables *alpha*, *beta* and *gamma*. These 
 
 ## Example
 
-Here is an example of how the ant colony behave with a simple graph and two random graph. The green node is the nest and the orange node is where the food is.
+Here is an example of how the ant colony behave with a simple graph and two random graphs. The green node is the nest and the orange node is where the food is.
 
 <p align="center">
 	<img src="./visualization.gif" />
